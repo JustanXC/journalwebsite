@@ -1,0 +1,208 @@
+.main-header .logo{
+  font-family: "Luminari", fantasy;
+  font-size: 36px;
+  height: 50px;
+}
+
+.skin-blue .main-header .logo{
+  background-color: #BA55D3; /* MediumOrchid */
+  border-radius: 50px;
+}
+
+.skin-blue .main-header .logo:hover{
+  background-color: #BA55D3; /* MediumOrchid */
+  border-radius: 50px;
+}
+
+.skin-blue .main-header .navbar{
+  background-color:#232b2b; /* Charleston Green */
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover{
+  background-color:#555555; /* Davy’s grey */
+  height: 50px;
+}
+
+.skin-blue .main-sidebar{
+  background-color:#232b2b; /* Charleston Green */
+  font-family: "Luminari", fantasy;
+  font-size: 20px;
+  top: 20px;
+}
+
+.skin-blue .main-sidebar, .skin-blue .wrapper{
+  background-color:#232b2b; /* Charleston Green */
+}
+
+.skin-blue .main-sidebar .sidebar .sidebar-menu .active a{
+  background-color:#555555; /* Davy’s grey */
+  border-radius: 50px;
+  border-left-color:#BA55D3; /* MediumOrchid */
+}
+
+.skin-blue .main-sidebar .sidebar .sidebar-menu a{
+  background-color:#232b2b; /* Charleston Green */
+  color:white;
+}
+
+.skin-blue .main-sidebar .sidebar .sidebar-menu a:hover{
+  background-color:#555555; /* Davy’s grey */
+  color:#232b2b; /* Charleston Green */
+  color:white;
+  border-radius: 50px;
+  border-left-color:#BA55D3; /* MediumOrchid */
+}
+
+.skin-blue .content-wrapper{
+  font-family: "Luminari", fantasy;
+  font-size:16px;
+  background-color:#808080 ; /* Trolley Grey */
+  border-top-left-radius: 10px;
+  position: relative;
+  top:20px;
+}
+
+.skin-blue .content-wrapper .content .tab-content .shiny-tab-upload .from-group .lablel{
+  font-weight: 100px;
+}
+#upload-label{
+  font-weight: 500;
+}
+
+#upload_progress{
+  background-color:#BA55D3; /* MediumOrchid */
+}
+
+#upload_progress .progress-bar{
+  background-color:#BA55D3; /* MediumOrchid */
+  "Загрузка прошла успешно";
+}
+
+#shiny-tab-upload .col-sm-14 .box-info{
+  border:2px solid #BA55D3; /* MediumOrchid */
+}
+
+#shiny-tab-upload .col-sm-14 .box-header{
+  background-color:#DA70D6; /* Orchid */
+}
+
+#shiny-tab-upload .col-sm-14 .box-body{
+  background-color:#d3d3d3; /* Light Grey */
+}
+
+#shiny-tab-upload .col-sm-14 .box-header  h3{
+  font-family: "Luminari", fantasy;
+  font-size: 20px;
+}
+
+#shiny-tab-journal .col-sm-14 .box-info{
+  border:2px solid #BA55D3; /* MediumOrchid */
+}
+
+#shiny-tab-journal .col-sm-14 .box-header{
+  background-color:#DA70D6; /* Orchid */
+}
+
+#shiny-tab-journal .col-sm-14 .box-body{
+  background-color:#d3d3d3; /* Light Grey */
+}
+
+#shiny-tab-journal .col-sm-14 .box-header  h3{
+  font-family: "Luminari", fantasy;
+  font-size: 20px;
+}
+
+#shiny-tab-table_stats{
+  background-color:#d3d3d3; /* Light Grey */
+  border-radius: 5px;
+}
+
+#shiny-tab-table_stats > div > ul{
+  background: #DA70D6;/* Orchid */
+}
+
+#shiny-tab-table_stats > div{
+  border:2px solid #BA55D3; /* MediumOrchid */
+}
+
+#shiny-tab-table_stats > div > ul > li:nth-child(1){
+  background-color: #DA70D6;/* Orchid */
+}
+
+#shiny-tab-table_stats > div > ul > li:nth-child(1) a{
+  color:#333;
+}
+
+#shiny-tab-table_stats > div > ul > li:nth-child(2){
+  background-color: #DA70D6;/* Orchid */
+}
+
+#shiny-tab-table_stats > div > ul > li:nth-child(2) a{
+  color:#333;
+}
+
+#shiny-tab-table_stats > div > div{
+  padding-left: 25px;
+  padding-top: 10px;
+}
+
+#shiny-tab-plot_stats > div > div{
+  font-family: "Luminari", fantasy;
+  font-size: 20px;
+}
+
+#shiny-tab-plot_stats > div > ul{
+  background: #DA70D6;/* Orchid */
+}
+
+#shiny-tab-plot_stats > div > ul > li:nth-child(1){
+  background-color: #DA70D6;/* Orchid */
+}
+
+#shiny-tab-plot_stats > div > ul > li:nth-child(1) a{
+  color:#333;
+}
+
+#shiny-tab-plot_stats > div > ul > li:nth-child(2){
+  background-color: #DA70D6;/* Orchid */
+}
+
+#shiny-tab-plot_stats > div > ul > li:nth-child(2) a{
+  color:#333;
+}
+
+#shiny-tab-help .col-sm-15 .box-info{
+  border:2px solid #BA55D3; /* MediumOrchid */
+}
+
+#shiny-tab-help .col-sm-15 .box-header{
+  background-color:#DA70D6; /* Orchid */
+}
+
+#shiny-tab-help .col-sm-15 .box-body{
+  background-color:#d3d3d3; /* Light Grey */
+}
+
+#shiny-tab-help .col-sm-15 .box-header  h3{
+  font-family: "Luminari", fantasy;
+  font-size: 20px;
+  color:white;
+}
+
+#shiny-tab-about .col-sm-15 .box-info{
+  border:2px solid #BA55D3; /* MediumOrchid */
+}
+
+#shiny-tab-about .col-sm-15 .box-header{
+  background-color:#DA70D6; /* Orchid */
+}
+
+#shiny-tab-about .col-sm-15 .box-body{
+  background-color:#d3d3d3; /* Light Grey */
+}
+
+#shiny-tab-about .col-sm-15 .box-header  h3{
+  font-family: "Luminari", fantasy;
+  font-size: 20px;
+  color:white;
+}
